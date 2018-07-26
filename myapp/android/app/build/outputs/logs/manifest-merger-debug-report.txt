@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:2:5-24
+		INJECTED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/samrita/.android/build-cache/f48f7d7f5c758a12625bd7aa35af85437bd3f7b3/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/samrita/.android/build-cache/f48f7d7f5c758a12625bd7aa35af85437bd3f7b3/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/samrita/.android/build-cache/7304bc9df46e1347b5298f040466b692cc0f52d7/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/samrita/.android/build-cache/b8220880d1e4c5540973b60d091b31ea78daf410/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/samrita/.android/build-cache/6b9153a17683beb3c20219d6f6b35b2a9aec4f1b/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/samrita/.android/build-cache/3ea219c124c427abe56b39b2b29a0bf2114e710d/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/samrita/.android/build-cache/524732dda6a30bb36993ae81fe79a3d758251ac1/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/samrita/.android/build-cache/3c2de4f6eede05d542fb338579b644d0ff647d5a/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/samrita/.android/build-cache/6adae1e4c1657d33f14b60a0f8344f5fedf9f0fa/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/samrita/.android/build-cache/c24acb2884cf5dcd03ad93fc18deb84e58727e89/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/samrita/.android/build-cache/e4ced4d375c1014bdf98a3139d2bf1adb11e4c11/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/samrita/.android/build-cache/97ffa82548f94317bcec7d378e41c298b14a94fc/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/samrita/.android/build-cache/5f94e3062696729b25fca011de65e1d668340ebd/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/samrita/.android/build-cache/8f6c99104183abff29b5bd0efda783556f833317/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.myapp.MainActivity
+ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/samrita/.android/build-cache/f48f7d7f5c758a12625bd7aa35af85437bd3f7b3/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/samrita/.android/build-cache/7304bc9df46e1347b5298f040466b692cc0f52d7/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/samrita/.android/build-cache/b8220880d1e4c5540973b60d091b31ea78daf410/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/samrita/.android/build-cache/6b9153a17683beb3c20219d6f6b35b2a9aec4f1b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/samrita/.android/build-cache/3ea219c124c427abe56b39b2b29a0bf2114e710d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/samrita/.android/build-cache/524732dda6a30bb36993ae81fe79a3d758251ac1/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/samrita/.android/build-cache/3c2de4f6eede05d542fb338579b644d0ff647d5a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/samrita/.android/build-cache/6adae1e4c1657d33f14b60a0f8344f5fedf9f0fa/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/samrita/.android/build-cache/c24acb2884cf5dcd03ad93fc18deb84e58727e89/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/samrita/.android/build-cache/e4ced4d375c1014bdf98a3139d2bf1adb11e4c11/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/samrita/.android/build-cache/97ffa82548f94317bcec7d378e41c298b14a94fc/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/samrita/.android/build-cache/e24a5af5d32b3cbb512662c85f7bf46858268af2/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/samrita/.android/build-cache/3394ac6411548b06bc221b13070b54f24cc5ab62/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/samrita/.android/build-cache/fdf3b73d3ce812c5051bd8379538ebb82f9b5479/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/samrita/.android/build-cache/70876a31e2b8177c2564d2bd64bb680f45db43aa/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/samrita/.android/build-cache/ecb03817d1afe35f98033a0bff653053a5bed2d6/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/samrita/.android/build-cache/6a6bc155877e8d42d439afc4707431d444210f87/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/samrita/.android/build-cache/daa7abba0a8de5e28a212a97d5e2e46d47824038/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/samrita/.android/build-cache/5f94e3062696729b25fca011de65e1d668340ebd/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/samrita/.android/build-cache/7304bc9df46e1347b5298f040466b692cc0f52d7/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/samrita/.android/build-cache/7304bc9df46e1347b5298f040466b692cc0f52d7/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/samrita/.android/build-cache/b8220880d1e4c5540973b60d091b31ea78daf410/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/samrita/.android/build-cache/6b9153a17683beb3c20219d6f6b35b2a9aec4f1b/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/samrita/.android/build-cache/3ea219c124c427abe56b39b2b29a0bf2114e710d/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/samrita/.android/build-cache/524732dda6a30bb36993ae81fe79a3d758251ac1/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/samrita/.android/build-cache/3c2de4f6eede05d542fb338579b644d0ff647d5a/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/samrita/.android/build-cache/6adae1e4c1657d33f14b60a0f8344f5fedf9f0fa/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/samrita/.android/build-cache/c24acb2884cf5dcd03ad93fc18deb84e58727e89/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/samrita/.android/build-cache/e4ced4d375c1014bdf98a3139d2bf1adb11e4c11/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/samrita/.android/build-cache/7304bc9df46e1347b5298f040466b692cc0f52d7/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/samrita/.android/build-cache/7304bc9df46e1347b5298f040466b692cc0f52d7/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/samrita/.android/build-cache/97ffa82548f94317bcec7d378e41c298b14a94fc/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/samrita/.android/build-cache/97ffa82548f94317bcec7d378e41c298b14a94fc/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/samrita/.android/build-cache/97ffa82548f94317bcec7d378e41c298b14a94fc/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/samrita/Documents/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

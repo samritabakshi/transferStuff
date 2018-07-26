@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/samrita/Documents/myapp/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/samrita/.android/build-cache/7304bc9df46e1347b5298f040466b692cc0f52d7/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/samrita/Documents/myapp/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/samrita/.android/build-cache/7304bc9df46e1347b5298f040466b692cc0f52d7/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

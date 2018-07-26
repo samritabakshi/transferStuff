@@ -1,0 +1,41 @@
+<%= form_for  @user  do |form| %>
+<div class="container">
+    <br>
+    <br>
+    <div class="row">
+        <div class ="col-md-4 col-md-offset-2">
+        <div class="input-group input-group-sm mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-sm">Username</span>
+        </div>
+        <%= form.text_field :username, class: 'form-control',readonly:true %>
+        </div>
+        
+        <div class="input-group input-group-sm mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-sm">Status</span>
+        </div>
+        <%= form.text_field :status, class: 'form-control',readonly:true %>
+        </div>
+       
+        <div class="input-group input-group-sm mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-sm">Email</span>
+        </div>
+        <%= form.text_field :email, class: 'form-control',readonly:true %>
+        </div>
+        
+        <div class="input-group input-group-sm mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-sm">Phone Number</span>
+        </div>
+        <%= form.text_field :phone_number, class: 'form-control',readonly:true %>
+        </div>
+        </div>
+
+       
+    </div>
+    <%= link_to 'Edit', edit_user_path(@user), class: 'btn btn-primary btn-sm' %> 
+    <%= link_to "Back" , users_path, class: 'btn btn-secondary btn-sm'%>
+</div>
+<% end %>

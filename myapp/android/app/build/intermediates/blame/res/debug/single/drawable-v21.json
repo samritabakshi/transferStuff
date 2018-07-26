@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/samrita/Documents/myapp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/samrita/.android/build-cache/7304bc9df46e1347b5298f040466b692cc0f52d7/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/samrita/Documents/myapp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/samrita/.android/build-cache/7304bc9df46e1347b5298f040466b692cc0f52d7/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/samrita/Documents/myapp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/samrita/.android/build-cache/7304bc9df46e1347b5298f040466b692cc0f52d7/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/samrita/Documents/myapp/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/samrita/.android/build-cache/e4ced4d375c1014bdf98a3139d2bf1adb11e4c11/output/res/drawable-v21/notification_action_background.xml"
+    }
+]
